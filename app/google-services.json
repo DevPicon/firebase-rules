@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1027237330610",
+    "firebase_url": "https://demohackspace.firebaseio.com",
+    "project_id": "demohackspace",
+    "storage_bucket": "demohackspace.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027237330610:android:c652723c6367d146",
+        "android_client_info": {
+          "package_name": "com.devpicon.android.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027237330610-8jm30m1vutlf5r00mr58p2rs82rlbnbt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devpicon.android.myapplication",
+            "certificate_hash": "1BF1ECCD185B35C668414286449B4CD59FB370A8"
+          }
+        },
+        {
+          "client_id": "1027237330610-q1q8m2oipp3kdm38lrn6fnicv0sa8gga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa3otvXJKefrGWWV5LGI8Gy-sejj0MQfY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027237330610-q1q8m2oipp3kdm38lrn6fnicv0sa8gga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
